@@ -36,8 +36,8 @@ The website displays essential event information:
    open index.html
 
 📅 Event Details \
-• Title: Introduction to Azure Architecture \
-• Date: May 31, 2025 \
+• Title: Introduction to Azure Architecture 1.1\
+• Date: Jun 28, 2025 \
 • Time: 7:00 PM IST \
 • Platform: Microsoft Teams \
 • Hosted by: Thejan Vithanage – Microsoft Learn Student Ambassador
